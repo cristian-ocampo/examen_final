@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lora', serif;
+}
+body{
+    background-image: url(ahh.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.ins{
+    display: flex;
+    margin: 20px;
+    width: 100px;
+}
+.lista{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+}
+.pe{
+    position: absolute;
+    right: 70pc;
+}
+li{
+    margin-left: 20px;
+}
+.uno{
+    display: flex;
+    font-size: 25px;
+    position: absolute;
+    left: 20px;
+    top: 15pc;
+}
+.tex{
+    width: 700px;
+    font-size: 25px;
+    position: absolute;
+    top: 20pc;
+    left: 20px;
+}
+.boton{
+    position: absolute;
+    top: 27pc;
+    left: 20px; 
+    font-size: 18px;
+    border-radius: 50px;
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    border: transparent;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.buton{
+    display: flex;
+    align-items: center;
+}
+.icono{
+    color: black;
+    position: absolute;
+    left: 9pc;
+    top:27.6pc;
+}
